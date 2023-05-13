@@ -1,0 +1,9 @@
+@charset "UTF-8";
+body { font-family:'굴림체';}
+header { background-color:lightblue;}
+menu { background-color:pink;}
+section { background-color:lightgreen;}
+footer { background-color:lightgray;}
+#image{
+	align:center;
+}
